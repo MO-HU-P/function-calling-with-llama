@@ -89,12 +89,12 @@ Please use the search results as a reference to provide a comprehensive answer t
 例:
 ```
 content='' 
-    id='run-72023a69-5bf2-459e-bddb-8294517afd1f-0' 
+    id='run-・・・・・・・・' 
     tool_calls=[{
         'name': 'get_web_search', 
         'args': {'query': 'Prime Minister of Japan 2024', 
                  'search_url_count': 5}, 
-                 'id': 'call_87e86ef15a3f44a780289e66f270b03a'
+                 'id': 'call_・・・・・・・・'
                 }
             ]
 ```
