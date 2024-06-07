@@ -122,7 +122,7 @@ second_response = model.invoke(messages)
 
 ### 試行例
 
-入力したQueryを「Who is the Prime Minister of Japan in 2024?」とした場合、以下の回答結果に示されました。
+入力したQueryを「Who is the Prime Minister of Japan in 2024?」とした場合、以下の回答結果が示されました。
 回答例1・2は、予想される結果が得られたパターンとなります。
 
 - 回答例1
@@ -190,7 +190,7 @@ Body: Mount Fuji, highest mountain in Japan. It rises to 12,388 feet (3,776 mete
 ```
 
 
-## 考察
+### 考察
 
 [Meta](https://llama.meta.com/llama3/)によると、Llama-3-8Bは他の類似モデルと比較して高い性能が示されています。個人の使用感においても、その回答の素晴らしさを直感的に感じることができます。一方で、上記の試行例のように、回答の生成が不安定である場合もあります。
 
