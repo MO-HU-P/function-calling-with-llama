@@ -1,0 +1,3 @@
+langchain_experimental
+langchain_core
+duckduckgo_search
